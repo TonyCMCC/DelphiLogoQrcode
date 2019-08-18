@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/15 18:19:38.000.548,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/15 18:20:03.000.114,D:\MyProject\qrcode\qrcode.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/15 18:20:03.000.114,D:\MyProject\qrcode\qrcode.dfm=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/08/15 18:20:46.000.850,D:\MyProject\qrcode\main.dfm=D:\MyProject\qrcode\qrcode.dfm</Transaction>
+    <Transaction>2019/08/15 18:20:46.000.850,D:\MyProject\qrcode\main.pas=D:\MyProject\qrcode\qrcode.pas</Transaction>
+    <Transaction>2019/08/15 18:21:02.000.175,D:\MyProject\qrcode\qrcode.dproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/08/15 19:03:33.000.082,=D:\MyProject\qrcode\DelphiZXIngQRCode.pas</Transaction>
+  </Transactions>
+</BorlandProject>
